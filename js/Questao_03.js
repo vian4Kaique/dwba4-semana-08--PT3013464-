@@ -5,4 +5,4 @@ var n3 = n1 * 0.6;
 var n4 = n2 * 0.4;
 var n5 = n3 + n4;
 
-alert(nome + n1 + n2);
+alert(nome +"\n N1: "+ n1 +"\n N2: "+ n2)
